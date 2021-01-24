@@ -8,5 +8,6 @@ To run please install pipenv via
 Then enter your bot's clientID in main.py
 
 Then run
+  py -m pipenv sync
   py -m pipenv shell
   py main.py
